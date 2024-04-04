@@ -99,8 +99,6 @@ Because we had to edit some of the main library files so that they would compile
 
 These really should work straignt out of the box - however, if they don't then please raise a GitHub issue or message us on the Relativ Discord.
 
-# Start playing your favorite games!
-
 <p> You can now play with your headset by downloading SteamVR, and OSVR.
 <p> I would love to hear about what you’ve experienced building the headset or help if you have any questions. Ping me at maxime@relativty.com or <a href="https://twitter.com/maximecoutte">@maximecoutte</a>. </p>
 <p align="center">🤗You can now chat with me and the Fellowship https://discord.gg/W9VKbjU</p>
